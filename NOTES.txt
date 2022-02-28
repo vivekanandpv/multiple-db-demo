@@ -1,0 +1,5 @@
+1. Create 2 sets of configurations in application.properties
+(injecting environment variables are preferred)
+2. Entities and repositories to be created in separate packages
+3. Configuration files to be created as implemented
+4. Configuration specific notes are mentioned in PersonDatabaseConfiguration
